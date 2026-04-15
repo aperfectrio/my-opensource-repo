@@ -23,3 +23,5 @@ This repository is created as part of the course **Introduction to Open Source S
 - README.md → Project overview
 - CONTRIBUTING.md → Contribution guidelines
 - LICENSE → Project license
+## 📖 Documentation
+See full documentation here: [DOCUMENTATION.md](DOCUMENTATION.md)
