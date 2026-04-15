@@ -27,7 +27,7 @@ The goal of this repository is to practice GitHub features and understand how op
 - DOCUMENTATION.md → Detailed explanation of the project
 
 ---
-git clone https://github.com/yourusername/my-opensource-repo.git
+git clone https://github.com/aperfectrio/my-opensource-repo.git
 
 3. Explore the files and understand the structure
 
