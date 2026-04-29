@@ -31,6 +31,10 @@ This repository is created as part of the course **Introduction to Open Source S
 3. Go to the project folder: cd my-opensource-repo
 4. Run the Python file:  python 24013656_AHAMMED_TANIM.py
 5. Follow the instructions in the terminal (enter name, experience, etc.)
+   
+## 🐍 Python Version
+This project was developed using **Python 3.x**.  
+It is recommended to use Python 3.10 or higher for compatibility.
 
 ## 📖 Documentation
 See full documentation here: [DOCUMENTATION.md](DOCUMENTATION.md)
